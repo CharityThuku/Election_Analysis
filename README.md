@@ -31,3 +31,6 @@ The analysis of the election shows that:
   - Arapahoe produced 6.7% of voters, for a total of 24,801 voters.
 - The county with the largest voter turnout was:
   - Denver, which produced 82.8% of voters, for a total of 306,055 voters.
+
+## Summary
+-- The code developed for this analysis is a great and efficient tool for the commision to analyze large data sets for election turnouts and results. The code developed in this script can be used as a template/reference to analyze elections results at the state and even federal level. Having the results in a csv format, we can use python to get the number of votes per county and also examine the winner of election per county.
