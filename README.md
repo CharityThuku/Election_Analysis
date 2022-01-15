@@ -12,7 +12,7 @@ A Colorado Board of Elections employee assigned the following tasks to complete 
 - Data Source: election_results.csv.
 - Software: Python, Visual Studio Code.
 
-## Summary
+## Results
 The analysis of the election shows that:
 - There were 369,711 votes cast in this election.
 - The candidates were: 
@@ -33,4 +33,4 @@ The analysis of the election shows that:
   - Denver, which produced 82.8% of voters, for a total of 306,055 voters.
 
 ## Summary
--- The code developed for this analysis is a great and efficient tool for the commision to analyze large data sets for election turnouts and results. The code developed in this script can be used as a template/reference to analyze elections results at the state and even federal level. Having the results in a csv format, we can use python to get the number of votes per county and also examine the winner of election per county.
+- The code developed for this analysis is a great and efficient tool for the commision to analyze large data sets for election turnouts and results. The code developed in this script can be used as a template/reference to analyze elections results at the state and even federal level. Having the results in a csv format, we can use python to get the number of votes per county and also examine the winner of election per county.
